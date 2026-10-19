@@ -1,3 +1,45 @@
+---
+language:
+- en
+- hi
+license: cc-by-4.0
+tags:
+- legal
+- indian-law
+- india-code
+- gazette-of-india
+- constitution-of-india
+- criminal-law
+- bns
+- bnss
+- bsa
+- ipc
+- crpc
+- companies-act
+- corporate-law
+- income-tax
+- securities-law
+- banking-law
+- labor-codes
+- cyber-law
+- data-privacy
+- intellectual-property
+- family-law
+- environmental-law
+- public-health
+- legal-nlp
+- legal-rag
+- mcp
+size_categories:
+- 10K<n<100K
+pretty_name: Indian Legal Knowledge Base (JSON Corpus)
+task_categories:
+- question-answering
+- text-retrieval
+- summarization
+- zero-shot-classification
+---
+
 <div align="center">
 
 # ⚖️ Indian Legal Knowledge Base (v3.0)
